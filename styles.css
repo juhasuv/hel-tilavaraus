@@ -1,0 +1,12 @@
+body {
+    font-family: HelsinkiGrotesk, Arial, sans-serif;
+}
+
+.navbar {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.link-danger {
+    text-decoration-style: wavy;
+}
